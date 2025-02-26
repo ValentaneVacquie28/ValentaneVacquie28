@@ -31,6 +31,6 @@ Toutefois, au fil de mon parcours, j’ai développé un intérêt croissant pou
 
 - ✉️ Vous pouvez me joindre à : valentane.vacquie@gmail.com
   
-- <a href="https://www.linkedin.com/in/valentane-vacquie" target="_blank">
+- <a href="https://www.linkedin.com/in/valentane-vacquie-604226291/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
